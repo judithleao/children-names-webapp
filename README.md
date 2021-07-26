@@ -2,10 +2,10 @@ This repo contains files to create a web application that shows popular child na
 
 **Link to web-app**
 
-to be added
+https://childname-web-app.herokuapp.com/
 
 
-**Libraries required**
+**Libraries required to run code in wrangle_data.py**
 
 * pandas
 
@@ -18,7 +18,7 @@ to be added
 
 * myapp.py -- to run application
 
-* wrangle_cata.py -- contains code that retrieves the data, wrangles it  and returns charts/tables
+* wrangle_data.py -- contains code that retrieves the data, wrangles it  and returns charts/tables
 
 * img -- contains images used on website
 
@@ -27,6 +27,10 @@ to be added
 * __init__.py -- initialise
 
 * routes.py -- render web app template
+
+* requirements.txt -- libraries/dependencies
+
+* Procfile
 
 
 **Data/License:**
